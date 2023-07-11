@@ -1,0 +1,12 @@
+env
+venv
+__pycache__
+*.png
+*.jpg
+*.svg
+*.gif
+*.jpeg
+data
+.eggs
+*.egg-info
+*.DS_Store
